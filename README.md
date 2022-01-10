@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpeyOne
-- 🌱 I’m currently learning front-end development (HTML/CSS/JavaScript)
+- 🌱 I’m currently learning front-end web development (HTML/CSS/JavaScript)
 - 📫 How to reach me: spey1@mail.ru
 
 <!---
